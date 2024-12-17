@@ -16,7 +16,7 @@ Deployed a scalable web application to handle high traffic using auto-scaling an
 - monitored performance with CloudWatch alerts.
 ## Image
 
-![DR Implementation Architecture](https://i.ibb.co/H21yKTF/Figure-2-DR-implementation-architecture-on-multi-Region-active-passive-workloads.png)
+![DR Implementation Architecture](https://i.ibb.co/L1hdGXx/1-k-Djw0r-LWPRl-Uq127-WY-h-Q.png)
 
 ## Steps
 
